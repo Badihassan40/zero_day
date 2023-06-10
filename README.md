@@ -36,4 +36,4 @@ Follow us on social media to stay updated with the latest course releases, learn
 
 We look forward to embarking on this learning journey with you!
 
-*Note: This Markdown text is a fictional representation and not associated with any real-world project named "Learning."*
+*Note: This Markdown text is a fictional representation and not associated with any real-world project named "Learning."
